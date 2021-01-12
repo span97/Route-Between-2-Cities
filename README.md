@@ -1,6 +1,9 @@
 # Route-Between-2-Cities
 
 
+![alt text](https://github.com/span97/Route-Between-2-Cities/blob/main/route.png)
+
+
 Code Structure :
 
 The code take input from the User and first assigns the arguments and checks which function to perform based on the number of arguments passed by the user.
